@@ -32,7 +32,7 @@ O design foi pensado para ser leve e intuitivo, utilizando uma tipografia agrad�
 ## 🌐 Acesso ao Site
 
 > 💡 O site está hospedado via GitHub Pages. 
-> Você pode acessar o site clicando no seguinte link: [Meu Currículo Online](https://evelynfgomes.github.io/curriculo/)
+> Você pode acessar o site clicando no seguinte link: [Meu Currículo Online](https://evelynfgomes.github.io/Curriculo/)
 
 ## 📧 Contato
 
